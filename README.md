@@ -1,1 +1,2 @@
-Travel Blog by using bulma css framework
+Travel Blog using bulma css framework
+Made by Sanjay Kandel
