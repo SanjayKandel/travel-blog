@@ -80,3 +80,27 @@
         font-size: 90% !important;
     }
 }
+
+
+/* Transformation in the main picture  */
+.zoom, .zoom1 {
+    /* padding: 30px; */
+    transition: transform .8s ease;
+    margin-bottom: 4rem;
+  }
+  
+
+.zoom:hover{
+    transform: scale(1.2);
+}
+
+.zoom1:hover{
+    transform: scale(1.1)
+}
+#sec-3{
+    margin-bottom: 4rem;
+}
+
+.button{
+    transition: 0.8s;
+}
